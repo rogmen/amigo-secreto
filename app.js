@@ -5,7 +5,6 @@ let lista = [];
 let listaAmigos = document.getElementById("listaAmigos");
 let resultado = document.getElementById("resultado");
 
-
 function adicionar(){
 
 }
