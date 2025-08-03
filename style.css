@@ -1,8 +1,6 @@
-/* cor original: #FFF9EB; */
-
 :root {
     --color-primary: #4B69FD;
-    --color-secondary: #555555;
+    --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
